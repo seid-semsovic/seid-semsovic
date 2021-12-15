@@ -11,3 +11,10 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
 </p>
+
+## Seid
+
+### Ambitious guy in love with business. 💼
+
+### Email: semsovicseid@gmail.com 📧
+### Currently doing: Java ☕
