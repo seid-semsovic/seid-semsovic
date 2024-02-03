@@ -3,6 +3,28 @@
 ### ME
 ```javascript
 const seid = {
+ languages: {
+    primary: ["javascript"],
+    secondary: ["python"],
+    projectsMadeWith: ["Java", "C#"],
+  },
+  technologies: {
+    frontEnd: {
+      js: ["React"],
+      frameworks: ["Next.js"],
+      styling: {
+        preProcessors: ["Sass"],
+        components: ["Mantine"],
+        useTailwind: true,
+      },
+    },
+    backEnd: {
+      node: {
+        primary: ["express", "nestjs"],
+      },
+    },
+    databases: ["postgresql" || "MongoDB"],
+  },
   
 };
 ```
