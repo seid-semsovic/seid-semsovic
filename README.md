@@ -5,8 +5,7 @@
 const seid = {
  languages: {
     primary: ["javascript"],
-    secondary: ["python"],
-    projectsMadeWith: ["Java", "C#"],
+    projectsMadeWith: ["Java", "C#", "Python"],
   },
   technologies: {
     frontEnd: {
