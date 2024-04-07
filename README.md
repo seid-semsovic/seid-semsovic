@@ -19,7 +19,7 @@ const seid = {
     },
     backEnd: {
       node: {
-        primary: ["express", "nestjs"],
+        primary: ["express","mongoose"],
       },
     },
     databases: ["postgresql" || "MongoDB"],
