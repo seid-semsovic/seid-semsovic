@@ -17,14 +17,6 @@ const seid = {
         useTailwind: true,
       },
     },
-    backEnd: {
-      node: {
-        primary: ["express","mongoose"],
-      },
-    },
-    databases: ["postgresql" || "MongoDB"],
-  },
-  
 };
 ```
 
